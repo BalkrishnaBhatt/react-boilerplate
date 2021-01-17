@@ -22,7 +22,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
+  .MuiButton-root{
+    color: red;
+    background: blue;
+  }
 }
+
+
 
 .App-link {
   color: #61dafb;
